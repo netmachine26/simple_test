@@ -1,1 +1,2 @@
 //autre fichier
+"use strict";
